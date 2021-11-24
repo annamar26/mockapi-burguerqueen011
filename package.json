@@ -1,0 +1,29 @@
+{
+    "name": "fake-server",
+    "version": "1.0.0",
+    "description": "mock burguerqueen011 server",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/annamar26/mockapi-burguerqueen011.git"
+    },
+    "keywords": [
+        "mock",
+        "api",
+        "burguerqueen",
+        "laboratoria",
+        "011"
+    ],
+    "author": "Ana Aguilar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/annamar26/mockapi-burguerqueen011/issues"
+    },
+    "homepage": "https://github.com/annamar26/mockapi-burguerqueen011#readme",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
