@@ -1,5 +1,4 @@
-{
-   
+{  
   "products": [
   
       {"id": "1",
@@ -33,10 +32,7 @@
     "type": "Desayuno",
     "dateEntry": ""
   },
-   
-     
-   
-      {
+        {
         "id": "5",
         "name": "Hamburguesa simple",
         "price": 10,
