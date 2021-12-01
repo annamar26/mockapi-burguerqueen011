@@ -100,7 +100,7 @@
         "type": "Comida",
         "dateEntry": ""
       }
-    ]
+    ],
     
     "orders": [{
             "mesero": "correo@ejemplo.com",
